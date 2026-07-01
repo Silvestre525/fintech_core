@@ -4,4 +4,4 @@ class TransactionStatus(str, Enum):
     PENDING = "PENDING"
     COMPLETED = "COMPLETED"
     FAILED = "FAILED"
-    REJATECD = "REJACTED"
+    REJECTED = "REJECTED"
